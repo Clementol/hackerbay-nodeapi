@@ -25,6 +25,7 @@ A secret variable is required for the token generation at login. Therefore, on y
 
 ```
 SECRET="<secret>"
+PORT=5000
 ```
 *N/B: The secret variable can be any text of your choice*
 
